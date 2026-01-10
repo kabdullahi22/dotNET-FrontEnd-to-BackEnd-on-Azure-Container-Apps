@@ -7,7 +7,7 @@ on:
 env:
 
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: test-dummy-shop-app
+  RESOURCE_GROUP_NAME: testdummyshop
 
   # specify your preferred region
   REGION: uksouth
